@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## My name is Felipe Nathan,
-and I'm a java developer, well, I work with java since 2015 and I'm still learning about many things about this world.
+and I'm a java developer, well, I work with java since 2015 and I'm still learning many things about this world.
 
 My last passion language is Kotlin, as you can see at these graphics below...
 
