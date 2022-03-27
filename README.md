@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 ## My name is Felipe Nathan,
-and I'm a java developer, well, I work with java since 2015 and I'm still learning many things about this world.
-
-My last passion language is Kotlin, as you can see at these graphics below...
+and I'm a Kotlin developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeNathan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
